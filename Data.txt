@@ -1,0 +1,13 @@
+27 Harry Potter 2 magician 2_school darkness
+12 Ezequiel Jones 3 warrior 3_school water
+13 Zeppelin Lee 1 magician 1_school fire
+16 Pierre Washington 1 warrior 1_school water
+18 Tomas Brown 3 warrior 3_school earth
+19 Tristian Lopez 1 magician 1_school wind
+20 Stanley Jackson 2 warrior 2_school water
+21 Jasper Taylor 3 magician 3_school fire
+22 Zayd Rivera 1 warrior 1_school earth
+23 Yoshiyuki Hall 2 magician 2_school wind
+24 Bruce Clark 3 warrior 3_school water
+25 Yosef Butler 1 magician 1_school fire
+26 Quinlan Evans 2 warrior 2_school earth
